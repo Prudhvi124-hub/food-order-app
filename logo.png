@@ -1,0 +1,13 @@
+import streamlit as st
+
+# Using the relative path so it works on your PC AND on GitHub
+logo_path = "assets/assets/logo.png" 
+
+# 1. Show in the Sidebar
+st.sidebar.image(logo_path, caption="DesiBites India", use_container_width=True)
+
+# 2. Show on the Main Page (Zomato Style)
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    st.image(logo_path, width=200)
+    st.title("Welcome to DesiBites")

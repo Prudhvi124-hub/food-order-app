@@ -1,0 +1,12 @@
+category,name,price,type,symbol
+Starters,Paneer Tikka,160,Veg,🟢
+Starters,Chicken 65,180,Non-Veg,🔴
+Starters,Gobi Manchurian,120,Veg,🟢
+Main Course,Chicken Biryani,250,Non-Veg,🔴
+Main Course,Paneer Butter Masala,220,Veg,🟢
+Main Course,Dal Tadka,150,Veg,🟢
+Breads,Butter Naan,40,Veg,🟢
+Breads,Garlic Naan,50,Veg,🟢
+Beverages,Masala Chai,30,Veg,🟢
+Beverages,Cold Coffee,90,Veg,🟢
+Beverages,Mango Lassi,70,Veg,🟢
